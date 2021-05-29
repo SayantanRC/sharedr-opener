@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Sharedr opener</string>
+
+    <!--activity_main.xml-->
+    <string name="instruction_1">1. Pin Sharedr to top of System Share menu.</string>
+    <string name="instruction_2">2. Grant accessibility permission. Whenever system share menu appears, Sharedr will be selected.</string>
+    <string name="grant_accessibility_settings">Grant accessibility settings</string>
+
+    <!--AppAccessibilityService.kt-->
+    <string name="please_wait_opening_sharedr">Please wait. Opening sharedr…</string>
+</resources>
