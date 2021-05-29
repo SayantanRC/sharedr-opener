@@ -1,5 +1,7 @@
 # Sharedr opener (Proof of concept)
 
+- This project is tested only on Android 11, but should work fine on Android 12 with minor changes if necessary.
+
 Android 12 takes away the possibility of opening a custom share sheet from a third party app. Only the system share sheet can be used.  
 Apps like Sharedr cannot be used in that case.  
 
